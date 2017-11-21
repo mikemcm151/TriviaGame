@@ -1,0 +1,29 @@
+body {
+	background:url(https://wh1k8zidop.inscname.net/images/categories/big/sports.jpg?v=10104);
+}
+
+button {
+	width: 80%;
+	height: 40px;
+	margin: 0 10%;
+	float: left;
+}
+
+button.answerchoice {
+	display: none;
+}
+
+button:hover {
+
+	background-color: blue;
+	color: white;
+}
+
+.answers div {
+	margin: 0 auto;
+}
+
+
+h1, h2, h3, .question {
+	text-align: center;
+}
